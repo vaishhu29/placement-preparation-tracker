@@ -1,0 +1,27 @@
+{
+    "Python": {
+        "Progress": 100,
+        "Attempted": 10,
+        "Correct": 8
+    },
+    "SQL": {
+        "Progress": 80,
+        "Attempted": 10,
+        "Correct": 9
+    },
+    "DSA": {
+        "Progress": 50,
+        "Attempted": 10,
+        "Correct": 4
+    },
+    "Aptitude": {
+        "Progress": 90,
+        "Attempted": 10,
+        "Correct": 8
+    },
+    "OOP": {
+        "Progress": 80,
+        "Attempted": 10,
+        "Correct": 7
+    }
+}
